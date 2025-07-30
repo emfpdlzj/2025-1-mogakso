@@ -16,7 +16,9 @@ C언어 및 커널 공부
 
  ### 3일차
 - Coursera Andrew ng의 Machine Learning 심화학습 과정
-  - 커널에서 돌아가는 TinyML의 구현을 위해, 관련 머신러닝 개념을 학습하였음.
+  - TinyML의 구현을 위해, 관련 머신러닝 개념을 학습하였음.
   - https://www.coursera.org/specializations/machine-learning-introduction
 
-
+### 4일차
+- 한빛미디어, TinyML, '피트워든, 대니얼 시투나야케' 지음
+  - TinyML의 기초를 본격적으로 학습함
