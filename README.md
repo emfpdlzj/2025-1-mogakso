@@ -16,10 +16,14 @@ C언어 및 커널 공부
   - https://www.inflearn.com/course/생활코딩-리눅스-강좌
 
  ### 3일차
-- Coursera Andrew ng의 Machine Learning 심화학습 과정
+- Coursera Andrew ng의 Machine Learning 심화학습 과정 - 지도머신러닝/회귀 및 분류
   - TinyML의 구현을 위해, 관련 머신러닝 개념을 학습하였음.
   - https://www.coursera.org/specializations/machine-learning-introduction
 
 ### 4일차
 - 한빛미디어, TinyML, '피트워든, 대니얼 시투나야케' 지음
   - TinyML의 기초를 본격적으로 학습함
+
+### 5일차
+- Coursera Andrew ng의 Machine Learning 심화학습 과정 - 고급학습 알고리즘
+  - TinyML의 구현을 위해, 관련 머신러닝 개념을 학습하였음.
