@@ -19,6 +19,7 @@ C언어 및 커널 공부
 - Coursera Andrew ng의 Machine Learning 심화학습 과정 - 지도머신러닝/회귀 및 분류
   - TinyML의 구현을 위해, 관련 머신러닝 개념을 학습하였음.
   - https://www.coursera.org/specializations/machine-learning-introduction
+  - andrewNg 폴더에 3,5일차 함께 있음.
 
 ### 4일차
 - 한빛미디어, TinyML, '피트워든, 대니얼 시투나야케' 지음
@@ -27,3 +28,4 @@ C언어 및 커널 공부
 ### 5일차
 - Coursera Andrew ng의 Machine Learning 심화학습 과정 - 고급학습 알고리즘
   - TinyML의 구현을 위해, 관련 머신러닝 개념을 학습하였음.
+  - andrewNg 폴더에 3,5일차 함께 있음.
