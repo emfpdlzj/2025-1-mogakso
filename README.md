@@ -61,3 +61,5 @@ C 언어와 리눅스 기본기를 다지고, TinyML 구현을 위한 머신러�
 ## 🚀 다음 목표
 - TFLite Micro 를 통해 **MCU/RPi 데모** 시도  
 
+
+![](./image.jpg)
